@@ -1,6 +1,8 @@
 # SOC-RESPONSE-TEMPLATES
 A collection of standardized SOC response templates for security alerts, incident investigations, customer communications, and ticket closures to ensure clear, consistent, and professional communication.
 
+Important Note: These templates are for benign positive and escalated Tickets
+
 SOC Response Templates
 
 A centralized collection of standardized Security Operations Center (SOC) response templates designed to improve the consistency, clarity, and professionalism of security alert investigations, incident communications, and ticket documentation.
