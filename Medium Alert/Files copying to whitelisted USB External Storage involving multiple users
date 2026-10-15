@@ -1,0 +1,21 @@
+Hi Team,
+
+This alert indicates potential data exfiltration activities where files are being copied to whitelisted USB by users mentioned below. Such behavior could signify insider threats or unauthorized data transfers. 
+
+Investigation: - 
+We have reviewed device events to filter events where USB drives were mounted. Please find the details below.
+
+Please find the event details below:
+
+// Add event details here.
+ReportId, DeviceId, InitiatingProcessAccountDomain, InitiatingProcessAccountName, InitiatingProcessAccountUpn, FileName, FolderPath, SHA256, Timestamp [UTC], IsAzureInfoProtectionApplied, DeviceName, DriveLetter, MountTime [UTC], ProductName, SerialNumber,  Manufacturer  
+
+Observations:
+
+Upon investigation, we have identified user: XXX copied documents to USB device involving serial number: YYY
+The logs indicate that this activity took place from the Device- “DeviceName".
+
+Kindly review this event to check the legitimacy of the above activity. Please let us know if you have any other questions or concerns, we're always glad to assist.
+
+Kind regards,
+Your Name
