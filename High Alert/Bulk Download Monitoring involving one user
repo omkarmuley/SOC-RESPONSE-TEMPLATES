@@ -1,0 +1,28 @@
+Hello Team,
+
+This alert is triggered when a user downloads a large volume of files or data. Such activity may be associated with legitimate business operations. However, unexpected bulk downloads could indicate potential data exfiltration.
+
+Investigation:
+
+We reviewed the available activity logs associated with the user XXX to assess the bulk download activity.
+
+Please find the event details below:
+
+// Add event deatils here.
+
+Observation:
+
+Reviewed the sign-in logs for user XXX and confirmed that the user successfully signed in with MFA satisfied.
+
+IP involve in this operation has clean reputation history. ref - // add IP reputation
+
+We recommend confirming the download activity, if this was authorized. Please let us know in case of any question, we would be happy to assist!
+
+We are closing this ticket as benign as of now.
+
+Kind Regards,
+Your Name
+
+
+
+Note: This response is for Benign Positive Tickets
