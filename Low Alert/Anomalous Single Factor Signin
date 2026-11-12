@@ -1,0 +1,19 @@
+Hi Team,
+
+This alert has been generated due to multiple users successfully signed in using single factor authentication where the device, location and ASN are abnormal.
+
+Investigation:
+Upon investigating the relevant sign-in logs, we reviewed sign-in was successfully completed using single-factor authentication.
+
+Please find more details below:
+
+// Enter event details here // 
+
+Observation:
+
+On investigating sign-in activity for above users we observed a successful sign-in into the application: //App Name with MFA requirement (MFA requirement satisfied by claim in the token.
+IPs involved with this operation has clean reputation history: ref-
+
+No unauthorized access or suspicious follow-on activity was identified during the investigation. Hence, we will proceed to close this ticket as benign. Please reach out to us in case of any concerns or queries; we are always glad to assist!
+
+Best regards,
